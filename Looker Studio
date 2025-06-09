@@ -1,0 +1,14 @@
+# Dashboard de Consumo Energético - Refinería
+
+Este dashboard fue creado en Google Looker Studio para monitorear el consumo energético horario de una unidad de destilación.
+
+🔗 [Ver el dashboard en Looker Studio](https://lookerstudio.google.com/s/tJG2_Au9fHc)
+
+📊 Variables analizadas:
+- Tipo de crudo
+- Caudal horario
+- Temperatura de entrada/salida
+- Consumo energético (kWh)
+
+📱 Optimizado para desktop, tablet y celular.
+
